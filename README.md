@@ -1,3 +1,10 @@
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22I%20am%20Sagar%20Malik!%22);System.out.println(%22Sagar%20Malik!%22);print(%22I%20am%20Sagar%20Malik!%22);printf(%22I%20am%20Sagar%20Malik!%22);fmt.Println(%22I%20am%20Sagar%20Malik!%22);println!(%22I%20am%20Sagar%20Malik!%22);cout%20%3C%3C%20%22I%20am%20Sagar%20Malik!%22&center=true&size=27&width=550">
+  </a>
+</h1>
+
+
 <h1> Hi, I'm Sagar Malik! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 <img align='right' src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="230">
 <p><em>I am a BTech student at <a href="http://tint.edu.in/">Techno International NewTown</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> 
