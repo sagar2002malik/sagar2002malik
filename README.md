@@ -6,7 +6,7 @@
 
 
 
-[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/SagarMa77824692?style=social)](https://twitter.com/SagarMa77824692)
+[![Twitter: sagar malik](https://img.shields.io/twitter/follow/SagarMa77824692?style=social)](https://twitter.com/SagarMa77824692)
 [![GitHub sagar2002malik](https://img.shields.io/github/followers/sagar2002malik?label=follow&style=social)](https://github.com/sagar2002malik)
 
 
