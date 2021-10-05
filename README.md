@@ -34,7 +34,7 @@ const SM = {
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagar2002malik" alt="sagar2002malik" /></a> </p>
 
-- 🌱 I’m currently learning **C, C++, Python, JAVA**
+- 🌱 I’m currently learning **C, C++, Python, Java, HTML, CSS**
 
 - 📫 How to reach me **sm8650750@gmail.com**
 
