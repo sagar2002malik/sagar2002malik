@@ -1,5 +1,27 @@
-<h1 align="center">Hi 👋, I'm Sagar Malik</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1> Hi, I'm Sagar Malik! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+<img align='right' src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="230">
+<p><em>I am a BTech student at <a href="http://tint.edu.in/">Techno International NewTown</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> 
+</em></p>
+
+
+
+
+[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/SagarMa77824692?style=social)](https://twitter.com/SagarMa77824692)
+[![GitHub sagar2002malik](https://img.shields.io/github/followers/sagar2002malik?label=follow&style=social)](https://github.com/sagar2002malik)
+
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const SM = {
+  about: "A passionate frontend developer from India"
+  pronouns: "he" | "him",
+  code: [HTML, CSS, C, C++, Python, Java],
+}
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagar2002malik&label=Profile%20views&color=0e75b6&style=flat" alt="sagar2002malik" /> </p>
 
